@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\0101\\5lab\\ElectronicShopYamukov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79134101-7EB9-44A1-B5FE-6EA1783F5E48}|ElectronicShopYamukov\\ElectronicShopYamukov.csproj|d:\\0101\\5lab\\electronicshopyamukov\\electronicshopyamukov\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79134101-7EB9-44A1-B5FE-6EA1783F5E48}|ElectronicShopYamukov\\ElectronicShopYamukov.csproj|solutionrelative:electronicshopyamukov\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79134101-7EB9-44A1-B5FE-6EA1783F5E48}|ElectronicShopYamukov\\ElectronicShopYamukov.csproj|d:\\0101\\5lab\\electronicshopyamukov\\electronicshopyamukov\\electronicshopyamukov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79134101-7EB9-44A1-B5FE-6EA1783F5E48}|ElectronicShopYamukov\\ElectronicShopYamukov.csproj|solutionrelative:electronicshopyamukov\\electronicshopyamukov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79134101-7EB9-44A1-B5FE-6EA1783F5E48}|ElectronicShopYamukov\\ElectronicShopYamukov.csproj|d:\\0101\\5lab\\electronicshopyamukov\\electronicshopyamukov\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79134101-7EB9-44A1-B5FE-6EA1783F5E48}|ElectronicShopYamukov\\ElectronicShopYamukov.csproj|solutionrelative:electronicshopyamukov\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79134101-7EB9-44A1-B5FE-6EA1783F5E48}|ElectronicShopYamukov\\ElectronicShopYamukov.csproj|d:\\0101\\5lab\\electronicshopyamukov\\electronicshopyamukov\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79134101-7EB9-44A1-B5FE-6EA1783F5E48}|ElectronicShopYamukov\\ElectronicShopYamukov.csproj|solutionrelative:electronicshopyamukov\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79134101-7EB9-44A1-B5FE-6EA1783F5E48}|ElectronicShopYamukov\\ElectronicShopYamukov.csproj|d:\\0101\\5lab\\electronicshopyamukov\\electronicshopyamukov\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79134101-7EB9-44A1-B5FE-6EA1783F5E48}|ElectronicShopYamukov\\ElectronicShopYamukov.csproj|solutionrelative:electronicshopyamukov\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectronicShopYamukov",
+              "DocumentMoniker": "D:\\0101\\5lab\\ElectronicShopYamukov\\ElectronicShopYamukov\\ElectronicShopYamukov.csproj",
+              "RelativeDocumentMoniker": "ElectronicShopYamukov\\ElectronicShopYamukov.csproj",
+              "ToolTip": "D:\\0101\\5lab\\ElectronicShopYamukov\\ElectronicShopYamukov\\ElectronicShopYamukov.csproj*",
+              "RelativeToolTip": "ElectronicShopYamukov\\ElectronicShopYamukov.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T14:49:30.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\0101\\5lab\\ElectronicShopYamukov\\ElectronicShopYamukov\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "ElectronicShopYamukov\\Entities\\UserEntity.cs",
+              "ToolTip": "D:\\0101\\5lab\\ElectronicShopYamukov\\ElectronicShopYamukov\\Entities\\UserEntity.cs*",
+              "RelativeToolTip": "ElectronicShopYamukov\\Entities\\UserEntity.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:43:08.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\0101\\5lab\\ElectronicShopYamukov\\ElectronicShopYamukov\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ElectronicShopYamukov\\DatabaseContext\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\0101\\5lab\\ElectronicShopYamukov\\ElectronicShopYamukov\\DatabaseContext\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "ElectronicShopYamukov\\DatabaseContext\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:37:49.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\0101\\5lab\\ElectronicShopYamukov\\ElectronicShopYamukov\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ElectronicShopYamukov\\MainWindow.xaml",
+              "ToolTip": "D:\\0101\\5lab\\ElectronicShopYamukov\\ElectronicShopYamukov\\MainWindow.xaml",
+              "RelativeToolTip": "ElectronicShopYamukov\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T14:30:33.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\0101\\5lab\\ElectronicShopYamukov\\ElectronicShopYamukov\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicShopYamukov\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\0101\\5lab\\ElectronicShopYamukov\\ElectronicShopYamukov\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ElectronicShopYamukov\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:30:33.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
